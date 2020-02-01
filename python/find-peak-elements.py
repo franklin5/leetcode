@@ -28,6 +28,7 @@ class Solution:
                 
 #         if start - 1 >=0 and start + 1 < len(nums) and nums[start] > nums[start - 1] and nums[start] > nums[start + 1]:
 #             return start
+
 #         mid should be able to cover the minimum???? discuss with Frank!
 #         if end - 1 >=0 and end + 1 < len(nums) and nums[end] > nums[end - 1] and nums[end] > nums[end + 1]:
 #             return end
